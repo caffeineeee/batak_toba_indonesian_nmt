@@ -30,4 +30,4 @@ Alternatively, you can run it using **Google Colab**. For improved training spee
 
 ## License
 
-The code is licensed under the [MIT License](https://github.com/caffeineeee/batak_toba_indonesian_nmt/blob/master/LICENSE).
+The code is licensed under the [MIT License](https://github.com/caffeineeee/batak_toba_indonesian_nmt/blob/main/LICENSE).
