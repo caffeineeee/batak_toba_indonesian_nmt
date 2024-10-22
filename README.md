@@ -1,6 +1,6 @@
 # Batak Toba language-Indonesian machine translation with transfer learning using No Language Left Behind
 
-This repository contains the implementation of a machine translation model based on the research paper [COMING SOON🤞]. The model architecture and training procedure are described in detail in the provided Jupyter Notebook file.
+This repository contains the implementation of a machine translation model based on the research paper [https://doi.org/10.11591/ijaas.v13.i4.pp830-839](https://doi.org/10.11591/ijaas.v13.i4.pp830-839). The model architecture and training procedure are described in detail in the provided Jupyter Notebook file.
 
 ## Requirements
 
@@ -24,7 +24,7 @@ cd batak_toba_indonesian_nmt
 jupyter notebook batak_toba_indonesian_nmt.ipynb
 ```
 
-Alternatively, you can run it using **Google Colab**. For improved training speed, adjust the runtime type to **T4 GPU or higher**.
+Alternatively, you can run it using **Google Colab** (https://colab.research.google.com). For improved training speed, adjust the runtime type to **T4 GPU, L4 GPU, or higher**.
 
 3. Follow the instructions in the notebook to train the machine translation model, evaluate its performance, and experiment with different parameters.
 
